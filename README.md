@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ElectroModeYT
+- 👋 Hi, I’m @Trillius!
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on IBM
+- 🌱 I’m currently learning Java Swing
+- 💞️ I’m looking to collaborate with Wipro
 - 📫 How to reach me - Discord Server - https://dsc.gg/Trillius
 
 <!---
