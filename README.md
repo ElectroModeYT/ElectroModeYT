@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Trillius!
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Java Swing
-- 💞️ I’m looking to collaborate with Wipro
-- 📫 How to reach me - Discord Server - https://dsc.gg/Trillius
+- 💞️ I’m looking forward to optimize everyone's PCs
+- 📫 How to reach me - Discord Server - https://discord.gg/BC5fZZuQHe
 
 <!---
 ElectroModeYT/ElectroModeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
